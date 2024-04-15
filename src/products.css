@@ -1,0 +1,21 @@
+.container{
+display: flex;
+justify-content: center;
+}
+
+.products{
+border-radius: 10px;
+font-family: sans-serif;
+font-size: 16px;
+padding: 5px;
+background-color: #111315 ;
+color: #FEF7EE;
+}
+
+.SearchBar{
+position: absolute;
+margin-top: 40px;
+background-color: #111315;
+margin-bottom: 20px;
+color: #FEF7EE;
+}
